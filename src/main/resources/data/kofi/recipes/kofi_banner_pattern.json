@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "kofi:kofi_mug"
+    }
+  ],
+  "result": {
+    "item": "kofi:kofi_banner_pattern"
+  }
+}

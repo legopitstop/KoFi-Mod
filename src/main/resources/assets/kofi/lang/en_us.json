@@ -1,0 +1,27 @@
+{
+    "item.kofi.kofi_mug": "Ko-Fi Mug",
+    "item.kofi.kofi_mug.desc": "For Legopitstop Supporters!",
+    
+    "advancements.husbandry.cheers.title": "Cheers!",
+    "advancements.husbandry.cheers.description": "Drink some ko-fi.",
+
+    "NOTE_READER": "Banner pattern item/pattern is not fully implemented!",
+    "item.kofi.kofi_banner_pattern": "Banner Pattern",
+    "item.kofi.kofi_banner_pattern.desc": "Ko-Fi",
+    "block.minecraft.banner.kofi.black": "Black Ko-Fi Charge",
+    "block.minecraft.banner.kofi.red": "Red Ko-Fi Charge",
+    "block.minecraft.banner.kofi.green": "Green Ko-Fi Charge",
+    "block.minecraft.banner.kofi.brown": "Brown Ko-Fi Charge",
+    "block.minecraft.banner.kofi.blue": "Blue Ko-Fi Charge",
+    "block.minecraft.banner.kofi.purple": "Purple Ko-Fi Charge",
+    "block.minecraft.banner.kofi.cyan": "Cyan Ko-Fi Charge",
+    "block.minecraft.banner.kofi.light_gray": "Light Gray Ko-Fi Charge",
+    "block.minecraft.banner.kofi.gray": "Gray Ko-Fi Charge",
+    "block.minecraft.banner.kofi.pink": "Pink Ko-Fi Charge",
+    "block.minecraft.banner.kofi.lime": "Lime Ko-Fi Charge",
+    "block.minecraft.banner.kofi.yellow": "Yellow Ko-Fi Charge",
+    "block.minecraft.banner.kofi.light_blue": "Light Blue Ko-Fi Charge",
+    "block.minecraft.banner.kofi.magenta": "Magenta Ko-Fi Charge",
+    "block.minecraft.banner.kofi.orange": "Orange Ko-Fi Charge",
+    "block.minecraft.banner.kofi.white": "White Ko-Fi Charge"
+}

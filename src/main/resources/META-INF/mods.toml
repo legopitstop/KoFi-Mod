@@ -1,0 +1,30 @@
+modLoader="javafml"
+# Forge 31-34 and Minecraft 1.16-1.16.3
+loaderVersion="[31,)"
+license="Legopitstop's Common License"
+issueTrackerURL="https://ko-fi.com/legopitstop"
+
+[[mods]]
+modId="kofi"
+version="1.0.0"
+displayName="Ko-Fi Mod"
+updateJSONURL="https://ko-fi.com/legopitstop"
+displayURL="https://ko-fi.com/legopitstop"
+logoFile="kofi_pixel_logo.png"
+credits="For ko-fi supporters!"
+authors="Legopitstop"
+description='''
+This mod is for my ko-fi supporters! Thank you for buying me a coffee! So you also deserve a coffee, but in Minecraft!
+'''
+[[dependencies.kofi]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.kofi]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16,1.16.3]"
+    ordering="NONE"
+    side="BOTH"

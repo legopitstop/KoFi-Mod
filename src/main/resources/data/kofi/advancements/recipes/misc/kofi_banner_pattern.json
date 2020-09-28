@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "kofi:kofi_banner_pattern"
+    ]
+  },
+  "criteria": {
+    "has_kofi_mug": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "kofi:kofi_mug"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "kofi:kofi_banner_pattern"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_kofi_mug",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": {
+      "item": "kofi:kofi_mug"
+    },
+    "title": {
+      "translate": "advancements.husbandry.cheers.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.cheers.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "kofi_mug": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "kofi:kofi_mug"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kofi_mug"
+    ]
+  ]
+}

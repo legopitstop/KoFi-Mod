@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#H ",
+    "#P#",
+    "## "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "P": {
+      "item": "minecraft:pink_dye"
+    },
+    "H": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "kofi:kofi_mug"
+  }
+}
